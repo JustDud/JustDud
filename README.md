@@ -82,9 +82,3 @@ AI‑driven travel assistant that processes user speech and emotion, enriches it
   - React + TypeScript frontends for internal tools and model controls  
 
 ---
-
-### 🌐 Let’s Connect
-
-- 💼 LinkedIn: - [Dmytro Dudarenko](linkedin.com/in/dmytro-dudarenko/)
-- 📍 Location: Manchester, UK  
-- 📬 Open to: AI automation contracts, integrations, and applied ML product work  
