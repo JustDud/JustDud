@@ -9,11 +9,11 @@
 
 
 <!-- Optional sub-header capsule (tagline) -->
-<div align="center">
+<!-- <div align="center">
   <a href="https://linkedin.com/in/dmytro-dudarenko/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</div>
+</div> -->
 
 
 <!-- About / intro -->
